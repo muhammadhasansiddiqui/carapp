@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
   },
   carcard:{
     // backgroundColor:"blue",
-    width:"50%",
+    width:"55%",
     marginLeft:2,
     borderColor: "gray",
     borderWidth: 3,
